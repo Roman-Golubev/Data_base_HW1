@@ -1,0 +1,102 @@
+﻿product_id,brand,product_line,product_class,product_size,list_price,standard_cost
+2,Solex,Standard,medium,medium,71.489999999999995,53.619999999999997
+3,Trek Bicycles,Standard,medium,large,2091.4699999999998,388.92000000000002
+37,OHM Cycles,Standard,low,medium,1793.4300000000001,248.81999999999999
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.10000000000002
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48000000000002
+25,Giant Bicycles,Road,medium,medium,1538.99,829.64999999999998
+22,WeareA2B,Standard,medium,medium,60.340000000000003,45.259999999999998
+15,WeareA2B,Standard,medium,medium,1292.8399999999999,13.44
+67,Solex,Standard,medium,large,1071.23,380.74000000000001
+12,WeareA2B,Standard,medium,medium,1231.1500000000001,161.59999999999999
+5,Trek Bicycles,Mountain,low,medium,574.63999999999999,459.70999999999998
+61,OHM Cycles,Standard,low,medium,71.159999999999997,56.93
+35,Trek Bicycles,Standard,low,medium,1057.51,154.40000000000001
+16,Norco Bicycles,Standard,high,small,1661.9200000000001,1479.1099999999999
+79,Norco Bicycles,Standard,medium,medium,1555.5799999999999,818.00999999999999
+33,Giant Bicycles,Standard,medium,small,1311.4400000000001,1167.1800000000001
+54,WeareA2B,Standard,medium,medium,1292.8399999999999,13.44
+27,Trek Bicycles,Standard,medium,medium,499.52999999999997,388.72000000000003
+82,Giant Bicycles,Road,medium,medium,1538.99,829.64999999999998
+89,WeareA2B,Touring,medium,large,1362.99,57.740000000000002
+64,Trek Bicycles,Standard,medium,large,1469.4400000000001,596.54999999999995
+19,Trek Bicycles,Mountain,low,medium,574.63999999999999,459.70999999999998
+72,Norco Bicycles,Standard,medium,medium,360.39999999999998,270.30000000000001
+91,WeareA2B,Standard,low,medium,642.30999999999995,513.85000000000002
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82000000000005
+99,Trek Bicycles,Road,low,small,1720.7,1531.4200000000001
+0,Norco Bicycles,Road,medium,medium,544.04999999999995,376.83999999999997
+92,WeareA2B,Standard,medium,small,1415.01,1259.3599999999999
+14,Solex,Standard,high,large,1842.9200000000001,1105.75
+44,WeareA2B,Standard,medium,medium,1769.6400000000001,108.76000000000001
+76,WeareA2B,Standard,low,medium,642.30999999999995,513.85000000000002
+46,Solex,Standard,low,medium,1289.8499999999999,74.510000000000005
+55,Trek Bicycles,Road,medium,large,1894.1900000000001,598.75999999999999
+66,Solex,Standard,medium,medium,1163.8900000000001,589.26999999999998
+81,Solex,Standard,medium,medium,1151.96,649.49000000000001
+86,OHM Cycles,Standard,medium,medium,235.63,125.06999999999999
+32,Giant Bicycles,Standard,medium,medium,642.70000000000005,211.37
+77,Norco Bicycles,Road,medium,large,1240.3099999999999,795.10000000000002
+96,Giant Bicycles,Standard,medium,large,1635.3,993.65999999999997
+6,OHM Cycles,Standard,high,medium,227.88,136.72999999999999
+47,Trek Bicycles,Road,low,small,1720.7,1531.4200000000001
+94,Giant Bicycles,Standard,medium,large,1635.3,993.65999999999997
+93,OHM Cycles,Standard,high,medium,1458.1700000000001,874.89999999999998
+60,Giant Bicycles,Standard,high,small,1977.3599999999999,1759.8499999999999
+28,Norco Bicycles,Standard,medium,small,1216.1400000000001,1082.3599999999999
+4,Giant Bicycles,Standard,high,medium,1129.1300000000001,677.48000000000002
+38,Trek Bicycles,Standard,medium,large,2091.4699999999998,388.92000000000002
+56,OHM Cycles,Standard,medium,medium,183.86000000000001,137.90000000000001
+58,OHM Cycles,Standard,medium,medium,912.51999999999998,141.40000000000001
+50,WeareA2B,Standard,medium,small,175.88999999999999,131.91999999999999
+80,OHM Cycles,Touring,low,medium,1073.0699999999999,933.84000000000003
+87,Giant Bicycles,Standard,high,medium,1179,707.39999999999998
+84,Giant Bicycles,Road,medium,medium,792.89999999999998,594.67999999999995
+21,Solex,Standard,medium,large,1071.23,380.74000000000001
+31,WeareA2B,Standard,medium,medium,752.63999999999999,205.36000000000001
+62,Solex,Standard,medium,medium,478.16000000000003,298.72000000000003
+17,Solex,Standard,high,medium,1024.6600000000001,614.79999999999995
+73,Solex,Standard,medium,medium,1945.4300000000001,333.18000000000001
+45,Solex,Standard,medium,medium,441.49000000000001,84.989999999999995
+49,Trek Bicycles,Road,medium,medium,533.50999999999999,400.13
+95,Giant Bicycles,Standard,medium,large,569.55999999999995,528.42999999999995
+18,Norco Bicycles,Standard,high,medium,1148.6400000000001,689.17999999999995
+70,Trek Bicycles,Standard,high,medium,495.72000000000003,297.43000000000001
+26,WeareA2B,Standard,medium,medium,1992.9300000000001,762.63
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48000000000002
+36,Solex,Standard,low,medium,945.03999999999996,507.57999999999998
+98,Trek Bicycles,Standard,high,medium,358.38999999999999,215.03
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95000000000005
+42,OHM Cycles,Road,medium,small,1810,1610.9000000000001
+20,Trek Bicycles,Standard,medium,small,1775.8099999999999,1580.47
+24,Solex,Road,medium,large,1777.8,820.77999999999997
+53,OHM Cycles,Standard,medium,medium,795.34000000000003,101.58
+65,WeareA2B,Standard,medium,medium,1807.45,778.69000000000005
+29,WeareA2B,Standard,medium,medium,1065.03,230.09
+11,Giant Bicycles,Standard,high,medium,1274.9300000000001,764.96000000000004
+10,Solex,Standard,medium,medium,1945.4300000000001,333.18000000000001
+7,Trek Bicycles,Road,low,medium,980.37,234.43000000000001
+41,Solex,Road,medium,medium,416.98000000000002,312.74000000000001
+9,OHM Cycles,Road,medium,medium,742.53999999999996,667.39999999999998
+69,Giant Bicycles,Road,medium,medium,792.89999999999998,594.67999999999995
+90,Norco Bicycles,Standard,low,medium,363.00999999999999,290.41000000000003
+97,Solex,Standard,medium,large,202.62,151.96000000000001
+100,Norco Bicycles,Road,medium,medium,1036.5899999999999,206.34999999999999
+74,WeareA2B,Standard,medium,medium,1228.0699999999999,400.91000000000003
+71,Solex,Standard,high,large,1842.9200000000001,1105.75
+34,Norco Bicycles,Road,high,large,774.52999999999997,464.72000000000003
+57,WeareA2B,Touring,medium,large,1890.3900000000001,260.13999999999999
+23,Norco Bicycles,Mountain,low,small,688.63,612.88
+51,OHM Cycles,Standard,high,medium,2005.6600000000001,1203.4000000000001
+59,WeareA2B,Standard,medium,small,1415.01,1259.3599999999999
+63,Solex,Standard,medium,medium,1483.2,99.590000000000003
+40,OHM Cycles,Standard,high,medium,1458.1700000000001,874.89999999999998
+8,Solex,Road,medium,small,1703.52,1516.1300000000001
+13,Solex,Standard,medium,medium,1163.8900000000001,589.26999999999998
+30,Solex,Standard,high,medium,748.16999999999996,448.89999999999998
+48,WeareA2B,Standard,medium,medium,1762.96,950.51999999999998
+68,OHM Cycles,Standard,medium,medium,1636.9000000000001,44.710000000000001
+83,Solex,Touring,medium,large,2083.9400000000001,675.02999999999997
+43,Solex,Standard,medium,medium,1151.96,649.49000000000001
+52,OHM Cycles,Road,medium,medium,1280.28,829.50999999999999
+85,WeareA2B,Standard,medium,medium,752.63999999999999,205.36000000000001
